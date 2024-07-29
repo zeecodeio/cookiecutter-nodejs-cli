@@ -1,0 +1,7 @@
+{
+    "package_distribution_name": "my-nodejs-cli",
+    "package_description": "The {{ cookiecutter.package_distribution_name }} package does amazing things.",
+    "package_license": ["MIT License", "BSD License", "ISC License (ISCL)", "GNU General Public License v3 (GPLv3)", "Apache Software License"],
+    "author_name": "First Last",
+    "author_email": "first@last.com"
+}
